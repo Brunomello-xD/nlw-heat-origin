@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by [Bruno Mello](https://www.linkedin.com/in/bruno-mello-14058819b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIBMlTz6fSoaFIdcA5Dyn0Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.settings_view_profile) :eyes:	
